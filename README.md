@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![readmebox](https://github.com/pythonize/pythonize/assets/35244043/a76addda-dcf3-40a8-87da-0954f89c255b)
+
 **pythonize/pythonize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
