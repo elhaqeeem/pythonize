@@ -1,1 +1,1 @@
-![readmebox](https://github.com/pythonize/pythonize/assets/35244043/ff420c46-e16e-4712-8d8c-dd8157722834)
+![readmebox](https://github.com/pythonize/pythonize/assets/35244043/96bf82d0-6d60-416e-bb96-da0cb4cc3903)
