@@ -9,4 +9,4 @@ Schematics to generate files with commands for GoLang
 LinkedIn
 Youtube channel Programming constructs
 Blog Medium
-🎯 Goals: To master all the mainstream technologies and one day build my own
+- [x] 🎯 Goals: To master all the mainstream technologies and one day build my own
