@@ -3,9 +3,9 @@ Hi there 👋, I'm a Software Engineer 👨‍💻 with 5+ yoe and trying hard t
 Platform for developers
 A Simple video chat application
 Schematics to generate files with commands for GoLang
-🌱 I’m currently learning Golang, Php, Typescript, Docker
-👯 I’m looking to collaborate on cloud technologies
-📫 I'm Active on:
+-🌱 I’m currently learning Golang, Php, Typescript, Docker
+-👯 I’m looking to collaborate on cloud technologies
+-📫 I'm Active on:
 LinkedIn
 Youtube channel Programming constructs
 Blog Medium
